@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="LeetCode_1047.h" />
     <ClInclude Include="LeetCode_222.h" />
+    <ClInclude Include="LeetCode_223.h" />
     <ClInclude Include="LeetCode_26.h" />
     <ClInclude Include="LeetCode_374.h" />
     <ClInclude Include="LeetCode_901.h" />
