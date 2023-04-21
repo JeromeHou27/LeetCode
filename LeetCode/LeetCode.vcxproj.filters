@@ -53,5 +53,29 @@
     <ClInclude Include="LeetCode_36.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode_79.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_10.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_44.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_136.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_137.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_345.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_1323.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_2131.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

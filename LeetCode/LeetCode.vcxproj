@@ -130,14 +130,22 @@
     <ClCompile Include="LeetCode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LeetCode_10.h" />
     <ClInclude Include="LeetCode_1047.h" />
+    <ClInclude Include="LeetCode_1323.h" />
+    <ClInclude Include="LeetCode_136.h" />
+    <ClInclude Include="LeetCode_137.h" />
+    <ClInclude Include="LeetCode_2131.h" />
     <ClInclude Include="LeetCode_279.h" />
     <ClInclude Include="LeetCode_222.h" />
     <ClInclude Include="LeetCode_223.h" />
     <ClInclude Include="LeetCode_26.h" />
     <ClInclude Include="LeetCode_263.h" />
+    <ClInclude Include="LeetCode_345.h" />
     <ClInclude Include="LeetCode_36.h" />
     <ClInclude Include="LeetCode_374.h" />
+    <ClInclude Include="LeetCode_44.h" />
+    <ClInclude Include="LeetCode_79.h" />
     <ClInclude Include="LeetCode_901.h" />
     <ClInclude Include="LeetCode_1544.h" />
     <ClInclude Include="LeetCode_947.h" />
