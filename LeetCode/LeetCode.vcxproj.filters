@@ -95,5 +95,14 @@
     <ClInclude Include="LeetCode_41.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode_713.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_310.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode_2537.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
