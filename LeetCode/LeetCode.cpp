@@ -1,8 +1,8 @@
 ﻿#include <iostream>
 
-#include "LeetCode_41.h"
+#include "LeetCode_1002.h"
 
 int main()
 {
-    LeetCode_41 leetCode;
+    LeetCode_1002 leetCode;
 }
